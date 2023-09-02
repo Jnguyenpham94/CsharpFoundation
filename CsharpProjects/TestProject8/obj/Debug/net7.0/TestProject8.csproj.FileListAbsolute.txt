@@ -1,0 +1,5 @@
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject8\obj\Debug\net7.0\TestProject8.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject8\obj\Debug\net7.0\TestProject8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject8\obj\Debug\net7.0\TestProject8.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject8\obj\Debug\net7.0\TestProject8.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject8\obj\Debug\net7.0\TestProject8.csproj.CoreCompileInputs.cache

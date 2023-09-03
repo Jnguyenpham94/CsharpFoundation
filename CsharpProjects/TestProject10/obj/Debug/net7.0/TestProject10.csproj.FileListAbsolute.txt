@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\bin\Debug\net7.0\TestProject10.exe
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\bin\Debug\net7.0\TestProject10.deps.json
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\bin\Debug\net7.0\TestProject10.runtimeconfig.json
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\bin\Debug\net7.0\TestProject10.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\bin\Debug\net7.0\TestProject10.pdb
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\refint\TestProject10.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.pdb
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\TestProject10.genruntimeconfig.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject10\obj\Debug\net7.0\ref\TestProject10.dll

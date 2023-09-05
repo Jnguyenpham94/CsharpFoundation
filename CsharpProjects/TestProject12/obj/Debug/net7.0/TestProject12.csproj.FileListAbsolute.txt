@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\bin\Debug\net7.0\TestProject12.exe
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\bin\Debug\net7.0\TestProject12.deps.json
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\bin\Debug\net7.0\TestProject12.runtimeconfig.json
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\bin\Debug\net7.0\TestProject12.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\bin\Debug\net7.0\TestProject12.pdb
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\refint\TestProject12.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.pdb
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\TestProject12.genruntimeconfig.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject12\obj\Debug\net7.0\ref\TestProject12.dll

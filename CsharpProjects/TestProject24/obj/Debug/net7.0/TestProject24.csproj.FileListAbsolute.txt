@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\bin\Debug\net7.0\TestProject24.exe
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\bin\Debug\net7.0\TestProject24.deps.json
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\bin\Debug\net7.0\TestProject24.runtimeconfig.json
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\bin\Debug\net7.0\TestProject24.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\bin\Debug\net7.0\TestProject24.pdb
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\refint\TestProject24.dll
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.pdb
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\TestProject24.genruntimeconfig.cache
+C:\Users\nguye\Documents\GitHub\C--Foundation\CsharpProjects\TestProject24\obj\Debug\net7.0\ref\TestProject24.dll
